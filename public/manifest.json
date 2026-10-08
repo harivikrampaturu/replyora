@@ -1,0 +1,8 @@
+{
+  "name": "Replyora",
+  "short_name": "Replyora",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f766e",
+  "background_color": "#f8fafc"
+}
